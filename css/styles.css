@@ -2,8 +2,14 @@ body {
   background-color: hsl(217, 54%, 11%);
   color: hsl(215, 51%, 70%);
   font-weight: 300;
-  padding: 10px 3rem;
+  padding: 0 3rem;
   font-family: 'Outfit', sans-serif;
+}
+
+.flex {
+  display: flex;
+  height: 100vh;
+  align-items: center;
 }
 
 .first-image {
